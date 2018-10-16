@@ -1,3 +1,3 @@
 # Multifunctional-Java-Calculator
-Java function LaTeX calculator
+Java function LaTeX calculator.
 More info will be added later!
